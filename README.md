@@ -1,6 +1,8 @@
 # vikingbraintraining
 A viking-themed brain training game built with SwiftUI. 
 
+![Screenshot](screenshot.png)
+
 ## Getting Started
 
 To run **Viking Brain Training**, you'll need to have Xcode installed on your Mac. The game is not distributed on the App Store, so you'll run it using the Xcode simulator or directly on your device. Here's how to get started:
